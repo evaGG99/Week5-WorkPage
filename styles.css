@@ -5,6 +5,25 @@
     --heading-font-family: "Poppins", sans-serif;
     --default-font-family: 'Source Sans Pro', sans-serif;
 }
-.body{
-background-color: var(--bg-color);
+body{
+    background-color: var(--bg-color);
+}
+h1{
+    font-family: var(--heading-font-family);
+    font-size: 60px;
+
+}
+h3{
+    font-family: var(--default-font-family);
+    font-size: 30px;
+}
+p{
+    font-family: var(--default-font-family);
+    font-size: 20px;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+.content{
+    margin: 50px 0 0 60px;
 }
