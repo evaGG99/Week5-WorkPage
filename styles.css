@@ -21,9 +21,6 @@ p{
     font-family: var(--default-font-family);
     font-size: 20px;
 }
-.img-fluid{
-    border-radius: 20px;
-}
 .content{
     margin: 50px 0 0 60px;
 }
